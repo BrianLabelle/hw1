@@ -12,7 +12,9 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ## Summary
 
 
-I used the Excel table provided, modified and analyzed the data of 4,000 past Kickstarter projects to complete the homework assignment. It involved data manipulation, conditional formatting, pivot tables, tacked column pivot charts & an attempt at Statistical Analysis.
+I used the Excel table provided, modified and analyzed the data of 4,000 past Kickstarter projects to complete the homework assignment. It involved data manipulation, conditional formatting, pivot tables, stacked column pivot charts & an attempt at Statistical Analysis. Statistical Analysis involved, mean, median, minimum, maximum, a very skewed variance number and standard devidation. I tossed in the coefficient of variation ( I hope ) as an additional measure.
+
+
 
 
 ## Submission
